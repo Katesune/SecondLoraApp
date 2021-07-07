@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.makstron:TCharts:0.9@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/c68b9ffa89a289c32981766a4539e6f6/jetified-TCharts-0.9/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/c68b9ffa89a289c32981766a4539e6f6/jetified-TCharts-0.9/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/c68b9ffa89a289c32981766a4539e6f6/jetified-TCharts-0.9/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.makstron/TCharts/0.9/8a1a74dd0651919ff50f035cca1a5c258778647b/TCharts-0.9-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
